@@ -1,3 +1,3 @@
 # demo
 This is my firtst repo
-Author - Rahul
+Author - Rahul(jakhar)
